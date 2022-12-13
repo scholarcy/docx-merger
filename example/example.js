@@ -1,4 +1,4 @@
-var DocxMerger = require('./../src/index');
+var DocxMerger = require('../dist');
 
 var fs = require('fs');
 var path = require('path');
