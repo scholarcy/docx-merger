@@ -32,7 +32,7 @@
   "author": "Scholarcy Developers <developers@scholarcy.com>",
   "dependencies": {
     "@xmldom/xmldom": "^0.8.6",
-    "jszip": "^2.6.1"
+    "jszip": "^3.10.1"
   },
   "bugs": {
     "url": "https://github.com/scholarcy/docx-merger/issues"
