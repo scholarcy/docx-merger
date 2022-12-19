@@ -40,7 +40,7 @@
   "homepage": "https://github.com/scholarcy/docx-merger#readme",
   "devDependencies": {
     "esbuild": "^0.16.5",
-    "rimraf": "^2.7.1"
+    "rimraf": "^3.0.2"
   },
   "engines": {
     "yarn": "YARN NO LONGER USED - use npm instead."
