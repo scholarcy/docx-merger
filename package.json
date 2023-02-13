@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/scholarcy/docx-merger#readme",
   "devDependencies": {
-    "esbuild": "^0.16.5",
+    "esbuild": "^0.17.7",
     "rimraf": "^2.7.1"
   },
   "engines": {
